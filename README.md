@@ -1,5 +1,8 @@
-Quick start:
+# ReactFacts
 
+React project (Static website)
+
+Quick start:
 ```
 $ yarn # npm install
 $ yarn build # npm run build
